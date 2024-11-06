@@ -1,5 +1,7 @@
 {
   "name": "my-church",
+  "homepage": "https://OKUNTIMI.github.io/church",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
