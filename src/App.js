@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          My name is Timilehin a SWE currently based in Nigeria
+        </p>
       </header>
     </div>
   );
